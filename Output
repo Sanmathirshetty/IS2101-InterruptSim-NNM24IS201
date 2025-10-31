@@ -1,0 +1,26 @@
+Keyboard enabled
+Mouse enabled
+Printer masked
+Printer masked
+Mouse ? ISR done
+Keyboard ? ISR done
+Keyboard ? ISR done
+Printer masked
+Mouse ? ISR done
+Printer masked
+Keyboard ? ISR done
+Mouse ? ISR done
+Keyboard ? ISR done
+
+=== ISR Log ===
+03:20:16 - Mouse
+03:20:16 - Keyboard
+03:20:17 - Keyboard
+03:20:19 - Mouse
+03:20:20 - Keyboard
+03:20:20 - Mouse
+03:20:21 - Keyboard
+
+Simulation complete.
+
+=== Code Execution Successful ===
